@@ -1,2 +1,2 @@
 # tourism-website-static
-ktourism.ccbp.tech
+https://ktourism.ccbp.tech
